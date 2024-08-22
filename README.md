@@ -18,7 +18,7 @@ The primary objective of this project was to develop a robust framework for esti
 
 ## Code Summary
 
-- **Lines of Code:** The project contains approximately `X` lines of code, meticulously developed and tested to ensure the reliability and accuracy of the results.
+- **Lines of Code:** The project contains approximately `5000` lines of code, meticulously developed and tested to ensure the reliability and accuracy of the results.
 - **Effort:** Significant effort was dedicated to optimizing the performance of the UKF, ensuring that it runs efficiently even with the complexity of the models involved. A single minimization run takes under 3 minutes, showcasing the depth and complexity of the implementation.
 - **Development Time:** This project represents months of dedicated work, combining rigorous theoretical research with extensive coding and testing.
 
