@@ -25,7 +25,3 @@ The primary objective of this project was to develop a robust framework for esti
 ## Acknowledgements
 
 This project was completed as part of my MSc dissertation at the University of Edinburgh, with the guidance and collaboration of ECFIN. I would like to extend my gratitude to my supervisors for their invaluable support throughout this research.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
