@@ -16,40 +16,11 @@ The primary objective of this project was to develop a robust framework for esti
 
 - **Analysis and Results:** The project includes detailed analysis of the estimation results, discussing the goodness-of-fit metrics, and providing insights into the behavior of the estimated parameters compared to theoretical expectations and previous empirical findings.
 
-## Repository Structure
-
-This repository is organized into several key directories and scripts:
-
-- **`data/`**: Contains all the scripts used for data collection, preprocessing, and transformation.
-- **`models/`**: Houses the implementation of the term structure models and the Unscented Kalman Filter.
-- **`optimization/`**: Includes scripts for parameter estimation and optimization procedures.
-- **`analysis/`**: Scripts and notebooks used for analyzing the results, generating plots, and computing statistical metrics.
-- **`results/`**: Contains the output files, including estimated parameters, model diagnostics, and other relevant results.
-
 ## Code Summary
 
 - **Lines of Code:** The project contains approximately `X` lines of code, meticulously developed and tested to ensure the reliability and accuracy of the results.
 - **Effort:** Significant effort was dedicated to optimizing the performance of the UKF, ensuring that it runs efficiently even with the complexity of the models involved. A single minimization run takes under 3 minutes, showcasing the depth and complexity of the implementation.
 - **Development Time:** This project represents months of dedicated work, combining rigorous theoretical research with extensive coding and testing.
-
-## Getting Started
-
-To get started with this repository:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/dissertation-project.git
-   ```
-2. **Install required packages:**
-   Ensure you have all the dependencies installed as listed in `requirements.txt`.
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the models:**
-   You can start by running the UKF models found in the `models/` directory. All the necessary configuration files and sample datasets are provided.
-
-4. **Analyze the results:**
-   Use the scripts in the `analysis/` directory to reproduce the figures and tables presented in the dissertation.
 
 ## Acknowledgements
 
